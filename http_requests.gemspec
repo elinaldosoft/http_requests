@@ -6,4 +6,5 @@ Gem::Specification.new do |s|
 	s.authors = ["Elinaldo Monteiro"]
 	s.email = "elinaldo.java@gmail.com"
 	s.require_paths = ["lib"]
+	s.homepage = "https://github.com/elinaldosoft/http_requests"
 end
